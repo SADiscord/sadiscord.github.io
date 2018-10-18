@@ -6714,7 +6714,7 @@ section .image {
   background-position: center center;
   background-size: cover; }
   section .image.image1 {
-    background-image: url("../example.jpg"); }
+    background-image: url("example.jpg"); }
   section .image.image2 {
     background-image: url("../img/example-2.jpg"); }
 section .text {
